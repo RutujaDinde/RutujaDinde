@@ -1,7 +1,7 @@
 ## Hi there,  I'm Rutuja Dinde! 👋
 
 ## 💫 About Me:
-<b>🔭 Currently working on </b> : Virtual Internship at [TechnoSignia](https://technosignia.in/)<br>I am currently working as a *Python Development Intern* at [TechnoSignia](https://technosignia.in/) |focusing on building scalable web applications and RESTful API|.<br><b>🎓Education:</b> MSc. Computer Science at Vivekananda College Kolhapur<br> <b>🧠 Interests: </b> Backend development, Android Development<br><br>
+<b>🔭 Currently working on </b> : Virtual Internship at [TechnoSignia](https://technosignia.in/)<br>I am currently working as a *Python Developer Intern* at [TechnoSignia](https://technosignia.in/) |focusing on building scalable web applications and RESTful API|.<br><b>🎓Education:</b> MSc. Computer Science at Vivekananda College Kolhapur<br> <b>🧠 Interests: </b> Backend development, Android Development<br><br>
 
 ## 💻 Tech Stack:
 <b>Languages:</b>  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)<br><br>
